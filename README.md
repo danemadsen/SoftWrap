@@ -1,5 +1,5 @@
 # SoftWrap
-Blender Softwrap V2.0
+Blender Softwrap V2.1.2
 
 Most Current version as of August 2023
 
